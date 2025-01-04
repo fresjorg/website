@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 128 128">
+    <path fill-rule="evenodd" d="m46.8 64.3-10 37-8.3-2.3L51 15l7 1.9 1.4.4 40.9 10.9-2.1 7.7L57.3 25l-8.5 31.7L83 65.9l-2 7.6-34.2-9.2Z" clip-rule="evenodd"/>
+    <style>
+        path { fill: #000; }
+        @media (prefers-color-scheme: dark) {
+            path { fill: #FFF; }
+        }
+    </style>
+</svg>
