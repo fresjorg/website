@@ -1,6 +1,7 @@
 {
   "name": "visible-velocity",
   "type": "module",
+  "packageManager": "pnpm@9.15.2",
   "version": "0.0.1",
   "scripts": {
     "dev": "astro dev",
